@@ -4,7 +4,7 @@ jobs:
   first-job: 
     runs-on: ubuntu-latest
     steps:
-      - name: print greeting
+      - name: print greetings
         run: |
           echo "welcome to github actions"
           echo "this is the new line"
