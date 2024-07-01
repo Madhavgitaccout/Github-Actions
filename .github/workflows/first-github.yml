@@ -8,4 +8,5 @@ jobs:
         run: |
           echo "welcome to github actions"
           echo "this is the new line"
+          echo "this is another line"
     
